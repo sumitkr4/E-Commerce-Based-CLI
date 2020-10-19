@@ -1,0 +1,6 @@
+setup.py
+MyCart.egg-info/PKG-INFO
+MyCart.egg-info/SOURCES.txt
+MyCart.egg-info/dependency_links.txt
+MyCart.egg-info/requires.txt
+MyCart.egg-info/top_level.txt
